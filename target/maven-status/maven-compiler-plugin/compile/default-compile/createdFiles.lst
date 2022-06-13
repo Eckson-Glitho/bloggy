@@ -1,0 +1,17 @@
+views\Registration$5.class
+DAO\DBConnect.class
+com\mycompany\monolitique_blog_app\Monolitique_blog_app.class
+models\User.class
+views\Registration.class
+controllers\UserController.class
+models\Comment.class
+views\Registration$2.class
+controllers\PostController.class
+controllers\CommentController.class
+views\Registration$3.class
+views\Login.class
+views\Registration$1.class
+models\Post.class
+views\Registration$4.class
+controllers\test.class
+views\Login$1.class
